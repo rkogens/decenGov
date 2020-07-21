@@ -22,8 +22,8 @@ Information:
 
 # LICENSE
 
-Copyright (c) 2020 FRORIEP Legal Ltd., HOPR Association
+Copyright (c) 2020 FRORIEP Legal Ltd., HOPR Association https://hoprnet.io/
 
-Catrina Luchsinger Gähwiler and Ronald Kogens Twitter: r_kogens Linkedin: https://www.linkedin.com/in/ronald-kogens/
+Catrina Luchsinger Gähwiler and Ronald Kogens Twitter: https://twitter.com/r_kogens Linkedin: https://www.linkedin.com/in/ronald-kogens/
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
