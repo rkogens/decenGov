@@ -1,7 +1,5 @@
 # The importance of governance in building ecosystems
 
-FRORIEP, Dr. Catrina Luchsinger, Ronald Kogens LL.M.
-
 Wirecard has proven once again that stellar growth and stunning revenues do not always mean that a company is well-founded. Although the board of directors has responsibilities towards the shareholders and the latter have certain information rights, organizational failure and misman-agement remain often unnoticed until it's too late. Additional corporate governance laying down the fundamentals on management and organization is therefore vital for long-term success, to ensure that the checks and balances among the stakeholders involved (shareholders, founders, and employees) are appropriate. 
 Good corporate governance is not only relevant for traditional equity financing, but also for al-ternative ways of funding, in particular for projects aiming at creating new decentralized ecosys-tems by using distributed ledger technology. Contributors in DLT-projects very often provide funding without getting any rights similar to shareholders in a stock corporation. The relationship is mainly based on trust and is very fragile. Organizational failures or mismanagement by the project founders often result in delays of the planned project, or even a partial or total loss of the funding provided, and leave the contributors without any rights of control or legal remedies. 
 It is necessary that the governance models are looked at more closely and discussed more widely. In the following, We will be presenting a decentralized community-enabling governance model #decenGov for DLT-ecosystem projects by using a Swiss association acting as the core of the ecosystem.
@@ -24,7 +22,7 @@ Information:
 
 # LICENSE
 
-Copyright (c) 2017 FRORIEP Legal Ltd.
+Copyright (c) 2020 FRORIEP Legal Ltd., HOPR Association
 
 Catrina Luchsinger Gähwiler and Ronald Kogens
 
